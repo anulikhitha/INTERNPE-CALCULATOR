@@ -1,0 +1,39 @@
+table{
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+textarea{
+    display: block;
+    margin-bottom: 8px;
+    margin-left:auto; 
+    margin-right:auto;
+    border-radius: 5px;
+    width:33rem;
+    height:7rem;
+    margin-top:1rem;
+ }
+
+ button{
+    height: 80px;
+    width: 80px;
+    
+    
+ }
+ .btn{
+    background:#ecf0f1;
+ }
+ #opac{
+    opacity: 0.25;
+    /* margin-left: 32%; */
+    /* margin-bottom: 3px; */
+    height: 19px;
+    width: 87px;
+    margin: auto;
+}
+.heading{
+    font-size:5rem;
+    margin-left:60rem;
+    margin-bottom: 0;
+    color:#2c3e50;
+}
